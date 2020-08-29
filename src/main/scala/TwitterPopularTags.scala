@@ -20,10 +20,10 @@ object TwitterPopularTags {
 
     //val Array(consumerKey, consumerSecret, accessToken, accessTokenSecret) = args.take(4)
 
-    val consumerKey = "rrvCDy4csvOKb1k37n9Gr0R5o"
-    val consumerSecret = "RJAeiI1yVCLTRV4o3acX8k7OmYJJn7I4J1YK1sEasxGzgigdw1"
-    val accessToken = "449575729-rilCjnJQ6H4RnVArIdsNS8lc0aiswO1qP0KXtXsU"
-    val accessTokenSecret = "ppjt88D7b6rQgjWWLTdZ3S67aIhawL0iwKzDugoStb2Oz"
+    val consumerKey = "Put you Consumer Key here"
+    val consumerSecret = "Put you consumerSecret here"
+    val accessToken = "Put you accessToken here"
+    val accessTokenSecret = "Put you accessTokenSecret here"
 
     //val filters = args.takeRight(args.length - 4)
 
